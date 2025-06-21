@@ -1,0 +1,14 @@
+C:\Users\louag\source\repos\Multiplesof3or5Ex\Multiplesof3or5Ex\bin\Debug\net8.0\Multiplesof3or5Ex.exe
+C:\Users\louag\source\repos\Multiplesof3or5Ex\Multiplesof3or5Ex\bin\Debug\net8.0\Multiplesof3or5Ex.deps.json
+C:\Users\louag\source\repos\Multiplesof3or5Ex\Multiplesof3or5Ex\bin\Debug\net8.0\Multiplesof3or5Ex.runtimeconfig.json
+C:\Users\louag\source\repos\Multiplesof3or5Ex\Multiplesof3or5Ex\bin\Debug\net8.0\Multiplesof3or5Ex.dll
+C:\Users\louag\source\repos\Multiplesof3or5Ex\Multiplesof3or5Ex\bin\Debug\net8.0\Multiplesof3or5Ex.pdb
+C:\Users\louag\source\repos\Multiplesof3or5Ex\Multiplesof3or5Ex\obj\Debug\net8.0\Multiplesof3or5Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louag\source\repos\Multiplesof3or5Ex\Multiplesof3or5Ex\obj\Debug\net8.0\Multiplesof3or5Ex.AssemblyInfoInputs.cache
+C:\Users\louag\source\repos\Multiplesof3or5Ex\Multiplesof3or5Ex\obj\Debug\net8.0\Multiplesof3or5Ex.AssemblyInfo.cs
+C:\Users\louag\source\repos\Multiplesof3or5Ex\Multiplesof3or5Ex\obj\Debug\net8.0\Multiplesof3or5Ex.csproj.CoreCompileInputs.cache
+C:\Users\louag\source\repos\Multiplesof3or5Ex\Multiplesof3or5Ex\obj\Debug\net8.0\Multiplesof3or5Ex.dll
+C:\Users\louag\source\repos\Multiplesof3or5Ex\Multiplesof3or5Ex\obj\Debug\net8.0\refint\Multiplesof3or5Ex.dll
+C:\Users\louag\source\repos\Multiplesof3or5Ex\Multiplesof3or5Ex\obj\Debug\net8.0\Multiplesof3or5Ex.pdb
+C:\Users\louag\source\repos\Multiplesof3or5Ex\Multiplesof3or5Ex\obj\Debug\net8.0\Multiplesof3or5Ex.genruntimeconfig.cache
+C:\Users\louag\source\repos\Multiplesof3or5Ex\Multiplesof3or5Ex\obj\Debug\net8.0\ref\Multiplesof3or5Ex.dll
